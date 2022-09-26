@@ -1,5 +1,5 @@
 public class Mainclass {
     public static void main(String[] args) {
-        System.out.println("seconf class");
+        System.out.println("second class");
     }
 }
